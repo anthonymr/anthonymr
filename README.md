@@ -7,7 +7,7 @@
 ### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="15"> A little more about me...  
 
 ```javascript
-const eliVillalejos = {
+const anthonyMartin = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, MySQL],
