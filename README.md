@@ -13,7 +13,7 @@ const anthonyMartin = {
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, MySQL],
   askMeAbout: [Telecom & networking, Graphic design, food recipes, renovation shows],
   challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 12+ years of work experience with devs from all over the world', 
+  funFacts: ['I have 10+ years of work experience with devs from all over the world', 
   'a lot of experience working with automation on Telecom industry and geospatial data']
 }
 ```
