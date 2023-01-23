@@ -1,4 +1,4 @@
-<h2> Hi, I'm Anthony Martin! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="70"></h2>
+<h2> Hi, I'm Anthony Martin!</h2>
 <p><em>Remote Full-stack web developer ready for action</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anthony%20Martin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-martin-8820a3117/)](https://www.linkedin.com/in/anthony-martin-8820a3117/)
