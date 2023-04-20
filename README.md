@@ -19,6 +19,7 @@
   - `Full-stack` web app construction
   - `Web scraping`
   - `DB Administration`
+  - `Graphic design`
   
   #### Some experiencie with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="15"> PHP -
