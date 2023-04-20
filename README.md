@@ -15,9 +15,10 @@
   - `Networking` FTTH(GPon) networking automation, Wireless networking automation, VoIP systems
   - `Telecom` Massive client management, System monitoring, Massive collection systems, Process automation
   - `Geospatial data` Geospatial plugins for several GIS softwares, Geospatial web apps
-  - `Administrative Software` DB administration, Personnel management, Monitoring systems, Warehouse management, Client management, Payments and collections systems, etc.
+  - `Administrative Software` Personnel management, Monitoring systems, Warehouse management, Client management, Payments and collections systems, etc.
   - `Full-stack` web app construction
   - `Web scraping`
+  - `DB Administration`
   
   #### Some experiencie with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="15"> PHP -
