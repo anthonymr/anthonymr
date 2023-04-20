@@ -6,14 +6,3 @@
 
 ### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="15"> A little more about me...  
 
-```javascript
-const anthonyMartin = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["he", "him"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, MySQL],
-  askMeAbout: [Telecom & networking, Graphic design, food recipes, renovation shows],
-  challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 10+ years of work experience with devs from all over the world', 
-  'a lot of experience working with automation on Telecom industry and geospatial data']
-}
-```
