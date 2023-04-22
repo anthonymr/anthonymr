@@ -18,8 +18,8 @@
   - `Administrative Software` Personnel management, Monitoring systems, Warehouse management, Client management, Payments and collections systems, etc.
   - `Full-stack` web app construction
   - `Web scraping`
-  - `DB Administration`
-  - `Graphic design`
+  - `DB Administration` MySQL, SQL Server, PostgreSQL
+  - `Graphic design` Linkedin, Illustrator
   
   #### Some experiencie with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="15"> PHP -
