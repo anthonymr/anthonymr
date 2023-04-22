@@ -16,7 +16,7 @@
   - `Telecom` Massive client management, System monitoring, Massive collection systems, Process automation
   - `Geospatial data` Geospatial plugins for several GIS softwares, Geospatial web apps
   - `Administrative Software` Personnel management, Monitoring systems, Warehouse management, Client management, Payments and collections systems, etc.
-  - `Full-stack` web app construction
+  - `Full-stack` Web app construction, SPA, E-Commerce, etc.
   - `Web scraping`
   - `DB Administration` MySQL, SQL Server, PostgreSQL
   - `Graphic design` Linkedin, Illustrator
