@@ -11,7 +11,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="15"> JavaScript -
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="15"> Vue.js
   
-  #### Areas I have worked on in the past 12 years:
+  #### Some areas I have worked on in the past 12 years:
   - `Networking` FTTH(GPon) networking automation, Wireless networking automation, VoIP systems
   - `Telecom` Massive client management, System monitoring, Massive collection systems, Process automation
   - `Geospatial data` Geospatial plugins for several GIS softwares, Geospatial web apps
