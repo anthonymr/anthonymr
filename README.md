@@ -24,5 +24,5 @@
   - `Full-stack` Web app construction, SPA, E-Commerce, etc.
   - `Web scraping`
   - `DB Administration` MySQL, SQL Server, PostgreSQL
-  - `Graphic design` Linkedin, Illustrator
+  - `Graphic design` Inkscape, Illustrator
   
