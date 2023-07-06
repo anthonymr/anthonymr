@@ -12,7 +12,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="15"> Ruby -
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="15"> JavaScript -
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="15"> Vue.js -
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="15"> React.js
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="15"> React.js -
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="15"> PostgreSQL
+  
    
   #### Some areas I have worked on in the past 12 years:
   - `Networking` FTTH(GPon) networking automation, Wireless networking automation, VoIP systems
