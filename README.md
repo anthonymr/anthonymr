@@ -1,5 +1,5 @@
 <h2> Anthony Martin</h2>
-<p><em>Full-stack Software Developer with over 10 years of experience in developing web applications using Ruby on Rails, Vue.js, CSS, and JavaScript. Strong teamwork and problem-solving abilities to work in a fast-paced environment.</em>
+<p><em>Full-stack Software Developer with over 10 years of experience developing web applications using Ruby on Rails, Vue.js, CSS, and JavaScript. Strong teamwork and problem-solving abilities to work in a fast-paced environment.</em>
 
 <strong>Open to new opportunities!</strong></p>
 
@@ -17,7 +17,7 @@
   #### Some areas I have worked on in the past 12 years:
   - `Networking` FTTH(GPon) networking automation, Wireless networking automation, VoIP systems
   - `Telecom` Massive client management, System monitoring, Massive collection systems, Process automation
-  - `Geospatial data` Geospatial plugins for several GIS softwares, Geospatial web apps
+  - `Geospatial data` Geospatial plugins for several GIS software, Geospatial web apps
   - `Administrative Software` Personnel management, Monitoring systems, Warehouse management, Client management, Payments and collections systems, etc.
   - `Full-stack` Web app construction, SPA, E-Commerce, etc.
   - `Web scraping`
